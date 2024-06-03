@@ -1,0 +1,6 @@
+INSERT INTO class VALUES ( Rj0801 Software0801 SoftwareEngineering' School of Software Engineering', 0);
+INSERT INTO class VALUES ( Rj0802 Software0802 Software Engineering 'School of Software Engineering', 0);
+INSERT INTO class VALUES ( Rj0803 Software0803 SoftwareEngineering' School of Software Engineering', 0);
+INSERT INTO class VALUES ( Rj0804 Software0804 SoftwareEngineering' School of Software Engineering', 0);
+INSERT INTO class VALUES ( Rj0805 Software0805 SoftwareEngineering' School of Software Engineering', 0);
+INSERT INTO class VALUES ( Rj0806 Software0806 SoftwareEngineering' School of Software Engineering', 0);

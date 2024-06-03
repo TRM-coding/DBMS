@@ -1,0 +1,15 @@
+attr1 attr2 attr3 attr4
+sdfs 123 2019-12-12 2019-12-12
+sdfs 123 2019-12-12 2019-12-12
+sdfs 123 2019-12-12 2019-12-12
+sdfs 123 NULL 2019-12-12
+...
+attr1 type 0 0 1 1
+attr2 type 0 1 0 0
+attr3 type 1 1 0 0
+attr3 type 1 0 0 1
+...
+attr1 table2 otherattr1
+attr2 table3 otherattr2
+attr3 table4 otherattr3 otherattr4
+...

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDBMSlib.a CMakeFiles/DBMSlib.dir/src/commanddecoding.cpp.o CMakeFiles/DBMSlib.dir/src/table.cpp.o CMakeFiles/DBMSlib.dir/src/tablemanager.cpp.o CMakeFiles/DBMSlib.dir/src/TableStream.cpp.o CMakeFiles/DBMSlib.dir/src/tree.cpp.o CMakeFiles/DBMSlib.dir/src/user.cpp.o CMakeFiles/DBMSlib.dir/src/usermanage.cpp.o CMakeFiles/DBMSlib.dir/src/operator.cpp.o
+/usr/bin/ranlib libDBMSlib.a

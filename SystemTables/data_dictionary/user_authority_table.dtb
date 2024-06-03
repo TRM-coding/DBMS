@@ -1,0 +1,16 @@
+username table_name select insert delete update alter drop 
+root s 1 1 1 1 1 1 
+root sc 1 1 1 1 1 1 
+root course 1 1 1 1 1 1 
+user1 s 1 0 0 0 0 0 
+user1 sc 1 0 0 0 0 0 
+user1 t1 1 0 0 0 0 0 
+root t1 1 1 1 1 1 1 
+root course 1 1 1 1 1 1 
+test2 t1 1 0 0 0 0 0 
+test2 sc 1 0 0 0 0 0 
+test2 .tb 1 0 0 0 0 0 
+test2 s 1 0 0 0 0 0 
+test2 class 1 0 0 0 0 0 
+test2 table2 1 0 0 0 0 0 
+...

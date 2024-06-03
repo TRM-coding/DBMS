@@ -1,0 +1,4 @@
+/home/Codeblocks/Mysql/DBMS/build/CMakeFiles/DBMSlib.dir
+/home/Codeblocks/Mysql/DBMS/build/CMakeFiles/DBMS.dir
+/home/Codeblocks/Mysql/DBMS/build/CMakeFiles/edit_cache.dir
+/home/Codeblocks/Mysql/DBMS/build/CMakeFiles/rebuild_cache.dir
